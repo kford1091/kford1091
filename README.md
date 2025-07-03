@@ -2,20 +2,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-kford1091@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kford1091@gmail.com)](mailto:kford1091@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-kford1091@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kford1091@gmail.com/)](https://www.linkedin.com/in/kford1091@gmail.com/) [![Github Badge](https://img.shields.io/badge/-kford1091-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kford1091/)](https://www.github.com/kford1091/) <p align='left'>Currently, I am a Facilities Manager and Tripleten student in the Business Intelligence Analyst program.  Aspiring Business Analyst with 12+ years of multidisciplinary experience spanning in cybersecurity, IT, and operational leadership. Known for pivoting across industries while consistently leveraging data to drive insight and decision-making. Skilled in data analysis, risk assessment, and translating complex findings into clear business value. Seeking to apply a proven ability to adapt, analyze, and communicate in a Business Intelligence Analyst role.</p>
 
-I enrolled in Tripleten in April 2025.  The curriclum covered Google Spreadsheets, SQL Postgre, Data Analytics, Data Visualization, Tableau, and Power BI
+I enrolled in Tripleten in April 2025.  The curriclum covered Google Spreadsheets, SQL Postgre, Data Analytics, Data Visualization, Tableau, and Power BI.
 
-Here are some ideas to get you started:
+Quick Facts:
 
-- 🔭 I’m currently working on obtaining knowledge and skills to become a Business Intelligence Analyst through the Tripleten bootcamp.
-- 🌱 I’m currently learning about data analytics, data visualization utilizing tools such as Google Spreadsheets, SQL Postgre, Tableau, and Power BI.
-- 👯 I’m looking to collaborate on data-driven projects that will provide accurate information to help organizations to make business decisions.    
-- 🤔 I’m looking for help with changing career
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- 🔭 I’m currently working on changing careers.
+- 🌱 I’m currently learning knowledge and skills to becoming a Business Intelligence Analyst.
+- 👯 I’m looking to collaborate on data-driven projects.     
+- ⚡ Favorite Movie: Stars Wars Saga
 
 
 
