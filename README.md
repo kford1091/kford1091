@@ -9,7 +9,7 @@ Quick Facts:
 - 🔭 I’m currently working on changing careers.
 - 🌱 I’m currently learning knowledge and skills to becoming a Business Intelligence Analyst.
 - 👯 I’m looking to collaborate on data-driven projects.     
-- ⚡ Favorite Movie: Stars Wars Saga
+- ⚡ Favorites: Star Wars Universe | Tropical Weather | Miami Hurricane Football | Washington Commanders | 
 
 
 
