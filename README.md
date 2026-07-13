@@ -13,7 +13,7 @@ Quick Facts:
 
 
 
-<p align='left'> You can view the Capabilities Statement <a href='https://docs.google.com/document/d/1_blYnr7zRrzQdKbuQmYFh2mnrenrSoIg/edit?usp=sharing&ouid=101427217121830920661&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view the Capabilities Statement <a href='https://docs.google.com/document/d/1Afen9zEHFXYM2APVKGccJNQGSUM4s4axPdE2o2_Lzks/edit?tab=t.0' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kford1091 alt=kford1091 /> </p>
 
