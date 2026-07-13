@@ -7,7 +7,7 @@ Quick Facts:
 - 🔭 LDK is always exploring and striving to work on Business Analysis short/long contracts.
 - 🌱 LDK is dedicated to performing in a professional manner with integrity.
 - 👯 LDK is looking forward to extract insights on data in order to drive data-driven projects.     
-- ⚡ Favorites: Star Wars Universe | Tropical Weather | Miami Hurricane Football | Washington Commanders | 
+- ⚡ LDK's Favorites: Star Wars Universe | Tropical Weather | Miami Hurricane Football | Washington Commanders | 
 
 
 
