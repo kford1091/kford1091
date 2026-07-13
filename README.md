@@ -1,6 +1,6 @@
-## Hi there 👋, I am Ken, Business Intelligence Analyst.
+## Hi there 👋, I am Ken, Business Intelligence Consultant.
 [![Gmail Badge](https://img.shields.io/badge/-kford1091@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kford1091@gmail.com)](mailto:kford1091@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-kford1091@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kford1091@gmail.com/)](https://www.linkedin.com/in/kford1091@gmail.com/) [![Github Badge](https://img.shields.io/badge/-kford1091-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kford1091/)](https://www.github.com/kford1091/) <p align='left'>Currently, I am a TripleTen graduate from the Business Intelligence Analyst program and obtained a CompTia AI Prompt Essentials competency certificate.    Business Analyst with 12+ years of multidisciplinary experience spanning in cybersecurity, IT, and operational leadership. Known for pivoting across industries while consistently leveraging data to drive insight and decision-making. Skilled in data analysis, risk assessment, and translating complex findings into clear business value. Seeking to apply proven abilities to adapt, analyze, and communicate in a Business Intelligence Analyst role.</p>
+[![Linkedin Badge](https://img.shields.io/badge/-kford1091@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kford1091@gmail.com/)](https://www.linkedin.com/in/kford1091@gmail.com/) [![Github Badge](https://img.shields.io/badge/-kford1091-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kford1091/)](https://www.github.com/kford1091/) <p align='left'>LDK Consultants is a premier data analytics and business intelligence consultancy specializing in transforming complex, fragmented data into actionable operational strategies for Small-to-Medium Businesses (SMBs). We bridge the gap between technical data infrastructure and executive decision-making. By leveraging advanced data visualization, seasonal demand forecasting, and automated reporting, we empower business owners to eliminate overhead waste, optimize inventory mix, and maximize profit margins..</p>
 
 I graduated in August 2025 from Tripleten.  The curriclum covered Google Spreadsheets, SQL, Data Analytics, Data Visualization, Tableau, and Power BI.
 
@@ -13,7 +13,7 @@ Quick Facts:
 
 
 
-<p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1_blYnr7zRrzQdKbuQmYFh2mnrenrSoIg/edit?usp=sharing&ouid=101427217121830920661&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view the Capabilities Statement <a href='https://docs.google.com/document/d/1_blYnr7zRrzQdKbuQmYFh2mnrenrSoIg/edit?usp=sharing&ouid=101427217121830920661&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kford1091 alt=kford1091 /> </p>
 
