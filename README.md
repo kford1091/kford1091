@@ -2,13 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-ldkconsultants708@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ldkconsultants708@gmail.com)](mailto:ldkconsultants708@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ldkconsultants708@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/ladesken-consultants.com/)](https://www.linkedin.com/in/kford1091@gmail.com/)  <p align='left'>LDK Consultants is a premier data analytics and business intelligence consultancy specializing in transforming complex, fragmented data into actionable operational strategies for Small-to-Medium Businesses (SMBs). We bridge the gap between technical data infrastructure and executive decision-making. By leveraging advanced data visualization, seasonal demand forecasting, and automated reporting, we empower business owners to eliminate overhead waste, optimize inventory mix, and maximize profit margins..</p>
 
-I graduated in August 2025 from Tripleten.  The curriclum covered Google Spreadsheets, SQL, Data Analytics, Data Visualization, Tableau, and Power BI.
-
 Quick Facts:
 
-- 🔭 I’m currently working on changing careers into Data Analytics
-- 🌱 I’m constantly obtaining knowledge and skills to becoming a Business Intelligence Analyst.
-- 👯 I’m looking forward to collaborate on data-driven projects.     
+- 🔭 LDK is always exploring and striving to work on Business Analysis short/long contracts.
+- 🌱 LDK is dedicated to performing in a professional manner with integrity.
+- 👯 LDK is looking forward to extract insights on data in order to drive data-driven projects.     
 - ⚡ Favorites: Star Wars Universe | Tropical Weather | Miami Hurricane Football | Washington Commanders | 
 
 
